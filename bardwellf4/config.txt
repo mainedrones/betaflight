@@ -427,7 +427,7 @@ set max_throttle = 2000
 set min_command = 1000
 set dshot_idle_value = 450
 set use_unsynced_pwm = OFF
-set motor_pwm_protocol = DSHOT600
+set motor_pwm_protocol = DSHOT300
 set motor_pwm_rate = 480
 set motor_pwm_inversion = OFF
 set thr_corr_value = 0
@@ -678,3 +678,5 @@ set pitch_srate = 70
 set yaw_srate = 70
 set tpa_rate = 10
 set tpa_breakpoint = 1650
+
+# 
